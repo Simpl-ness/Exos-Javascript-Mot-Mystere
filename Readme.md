@@ -6,7 +6,7 @@
 * Dérterminer un mot aléatoire à partir du tableau de mots ci-dessous
 * Créer un form avec un input permettant de saisir un mot et de le soumettre
 * Si le mot saisi correspond au mot aléatoire, afficher **Bravo tu as gagné !**
-* Si le mot ne correspond pas, afficher **Raté, essaye encore !***
+* Si le mot ne correspond pas, afficher **Raté, essaye encore !**
 
 
 **var mon_tableau = new Array('Voiture','Clé', 'Table', 'Téléphone', 'Jardin', 'Soleil','Chèvre','Développeur', 'Ballon', 'Guitare', 'Lunettes', 'Nuage','Ordinateur','Livre','Chien','Culotte', 'Mur','Chlorophylle','Portefeuille','Post-it', 'Couleur');**
